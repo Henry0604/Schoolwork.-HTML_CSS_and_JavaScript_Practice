@@ -4,7 +4,7 @@ This repository is about a school project in which I developed my second website
 ## Introduction
 I created this website using HTML, CSS, and integrating JavaScript technology for the navigation bar and gallery functions, where I built a website for fans of the series 'Inside Job'.
 
-<img src="" alt="Inside Job" width="1000" height="500" />
+<img src="https://github.com/Henry0604/Schoolwork.-HTML_CSS_and_JavaScript_Practice/assets/113632465/8b3d9bfe-afad-4322-a2a6-f4e15b3ed954" alt="Inside Job" width="1000" height="500" />
 
 ## Technologies used 
 
